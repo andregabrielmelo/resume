@@ -1,0 +1,18 @@
+# Fdb version 4
+["pdflatex"] 1740713038.04888 "/home/redakas/Projects/resume/resume.tex" "resume.pdf" "resume" 1740713038.13456 2
+  "/etc/texmf/web2c/texmf.cnf" 1740712971.43157 475 c0e671620eb5563b2130f56340a5fde8 ""
+  "/home/redakas/Projects/resume/resume.tex" 1740712856.7516 1876 a10592887aee4bb89985bc014b3e50ca ""
+  "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1136768653 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
+  "/usr/share/texlive/texmf-dist/tex/latex/base/size11.clo" 1705352648 8464 59874a3b0776c73e2a138b025d8473dd ""
+  "/usr/share/texlive/texmf-dist/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/usr/share/texmf/web2c/texmf.cnf" 1707919699 40399 f2c302f7d2af602abb742093540a5834 ""
+  "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1740712986 6800793 bcfbf6cb90d8d313b1820a4d8d9ddb95 ""
+  "fontawesome5.sty" 0 -1 0 ""
+  "resume.aux" 1740713038.04156 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "resume.tex" 1740712856.7516 1876 a10592887aee4bb89985bc014b3e50ca ""
+  (generated)
+  "resume.aux"
+  "resume.log"
+  "resume.pdf"
+  (rewritten before read)
